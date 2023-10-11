@@ -21,7 +21,7 @@ https://github.com/andresisfx/Pokemon-project.git : Developed a web application 
 https://github.com/andresisfx/Food-project.git: Developed this project with the aim of practicing the skills I've acquired over the past few months. Within the project, I wrote code for both the backend and the frontend, crafting the necessary logic to fetch data from an external API and render it on the client side. The main challenge of this project was implementing the logic to capture only the required information and make it available to the frontend for rendering. I was able to overcome this challenge by diligently reading documentation and dedicating a significant amount of time to code challenges
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=contribs,issues)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andresisfx&show_icons=true&count_private=true&hide=contribs,issues)
 
 
 
