@@ -3,7 +3,7 @@
 andresisfx
 
 
-- 🌱 I’m currently learning java, cybersecurity
+- 🌱 I’m currently learning Angular 
 - 👯 I’m looking to collaborate  on open-source web development projects
 - 🤔 I’m looking for help with code review and feedback on my open-source project.
 - 💬 Ask me about JavaScript, React, and full-stack development
