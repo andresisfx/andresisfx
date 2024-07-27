@@ -3,7 +3,7 @@
 andresisfx
 
 
-- 🌱 I’m currently learning Angular 
+- 🌱 I’m currently learning cloud computing 
 - 👯 I’m looking to collaborate  on open-source web development projects
 - 🤔 I’m looking for help with code review and feedback on my open-source project.
 - 💬 Ask me about JavaScript, React, and full-stack development
@@ -12,7 +12,7 @@ andresisfx
 
 
 ### Technologies and Tools
-React  CSS3 HTML5 JavaScript  MySQL Webpack Node.js PostgreSQL Redux WordPress Express.js  
+React  CSS3 HTML5 JavaScript  MySQL Webpack Node.js PostgreSQL Redux WordPress Express.js, Java, springboot  
 
 ### My Featured Projects
 
