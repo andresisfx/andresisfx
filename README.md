@@ -3,10 +3,10 @@
 andresisfx
 
 
-- 🌱 I’m currently learning cloud computing 
+- 🌱 I’m currently deep learning React advanced cocepts.
 - 👯 I’m looking to collaborate  on open-source web development projects
 - 🤔 I’m looking for help with code review and feedback on my open-source project.
-- 💬 Ask me about JavaScript, React, and full-stack development
+- 💬 Ask me about JavaScript, React, and Frontend developer
 - 📫 How to reach me:  Feel free to send me a message on LinkedIn at linkedin.com/in/andres-rodriguez-038880238 , gmail: andresrodriguezwg@gmail.com
 
 
