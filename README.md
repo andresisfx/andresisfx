@@ -12,7 +12,7 @@ andresisfx
 
 
 ### Technologies and Tools
-React  CSS3 HTML5 JavaScript  MySQL Webpack Node.js PostgreSQL Redux WordPress Express.js, Java, springboot  
+React JavaScript CSS3 HTML5 Redux-Toolkit 
 
 ### My Featured Projects
 
